@@ -1,9 +1,9 @@
 # Banco de Dados ECOMMERCE
- Database Experience - 
+ Bootcamp Database Experience - **_Digital Innovation One_**
  ___
  Objetivo deste dasafio é criar um projeto conceitual de Banco de Dados – E-COMMERCE.
  ___
-Requerimentos do Desafio:
-A partir de um modelo exposto na aula refinar a estrutura para armazenamento dos dados de cliente que pode ser PJ ou PF de forma generalista; 
-Criar entidade pagamento de forma generalista; 
-Criar entidade entrega de forma generalista.
+Acrescentando os seguintes pontos:
+* Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+* Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+* Entrega – Possui status e código de rastreio.
