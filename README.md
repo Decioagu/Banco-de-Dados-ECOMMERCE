@@ -1,4 +1,4 @@
-# Banco de Dados ECOMMERCE
+# Banco de Dados E-COMMERCE
  Bootcamp Database Experience - **_Digital Innovation One_**
  ___
  Objetivo deste dasafio é criar um projeto conceitual de Banco de Dados – E-COMMERCE.
